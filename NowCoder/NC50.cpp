@@ -16,10 +16,6 @@ ListNode *reverseKGroup(ListNode *head, int k)
         return head;
     }
     
-    {
-        /* code */
-    }
-    
     // write code here
     ListNode *slow, *fast=head;
     int cnt;
