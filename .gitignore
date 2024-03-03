@@ -2,3 +2,5 @@
 /HustOJ
 .history
 .vscode
+**/*.exe
+**/*.dll
