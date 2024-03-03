@@ -1,7 +1,8 @@
 /Contest
 /HustOJ
-.history
-.vscode
+**/.vscode
+**/.history
 **/*.exe
 **/*.dll
 /Misc
+**/bin
